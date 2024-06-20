@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.container {
+    border: 5px solid #fc000086;
+    background-color: #0000005b;
+    display: grid;
+    grid-template-columns: 200px 400px 100px;
+    grid-auto-rows: 200px;
+}
+
+.item {
+    border: 5px solid #000000;
+    font-size: 4rem;
+}
