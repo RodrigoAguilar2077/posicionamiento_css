@@ -8,6 +8,7 @@
     background-color: rgb(198, 198, 198);
 }
 
+/* Item con posicionamiento relativo */
 .red-box{
     background-color: rgba(255, 0, 0, 0.318);
     /* bottom: 200px; no funciona */
