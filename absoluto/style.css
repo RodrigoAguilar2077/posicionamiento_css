@@ -6,6 +6,7 @@
     padding: 20px;
     width: 400px;
     background-color: rgb(198, 198, 198);
+    position: relative;
 }
 
 /* Item con posicionamiento relativo */
@@ -18,8 +19,8 @@
 
 .blue-box{
     background-color: rgba(4, 0, 255, 0.342);
-    top: 20px;
-    left: 50px;
+    bottom: 0px;
+    right: 20px;
     position: absolute;
 }
 
